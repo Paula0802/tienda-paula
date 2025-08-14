@@ -60,27 +60,27 @@
     "category": "Pizza"
   },
   {
-    "name": "Lasagna ",
-    "price": 64.7,
-    "image": "donas_11",
-    "category": "dona"
+    "name": "Lasagna con queseo y carne molida",
+    "price": 24.7,
+    "image": "lasagna_01",
+    "category": "Lasagna"
   },
   {
-    "name": "Dona Natural con Chocolate",
-    "price": 45.5,
+    "name": "Lasagna pollo y champiñones",
+    "price": 25.5,
     "image": "donas_12",
-    "category": "dona"
+    "category": "Lasagna"
   },
   {
-    "name": "Paquete de 3 Donas de Chocolate con Chispas",
-    "price": 60.2,
-    "image": "donas_13",
-    "category": "dona"
+    "name": "Perro caliente con tocineta",
+    "price": 20.2,
+    "image": "perro_01",
+    "category": "Perro caiente"
   },
   {
-    "name": "Dona Chocolate y Coco",
-    "price": 58.9,
-    "image": "donas_14",
-    "category": "dona"
+    "name": "Hamburguesa con queso y tocino",
+    "price": 25.9,
+    "image": "burguer_01",
+    "category": "Hamburguesa"
   }
 ]
