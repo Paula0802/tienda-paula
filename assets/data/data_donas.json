@@ -54,13 +54,13 @@
     "category": "Pizza"
   },
   {
-    "name": "Paquete de 6 Donas",
-    "price": 60.1,
-    "image": "donas_10",
-    "category": "dona"
+    "name": "Pizza tocienta y chorizo",
+    "price": 20.1,
+    "image": "pizza_10",
+    "category": "Pizza"
   },
   {
-    "name": "Paquete de 3 Variadas",
+    "name": "Lasagna ",
     "price": 64.7,
     "image": "donas_11",
     "category": "dona"
