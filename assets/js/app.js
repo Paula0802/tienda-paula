@@ -190,7 +190,7 @@ function generarPedidoWhatsApp() {
   const mensajeCodificado = encodeURIComponent(mensaje);
 
   // Generar el enlace de WhatsApp con el mensaje codificado
-  const urlWhatsApp = `https://wa.me/${+573213872648}?text=${mensajeCodificado}`;
+  const urlWhatsApp = `https://wa.me/${+573223557694}?text=${mensajeCodificado}`;
 
   // Abrir el enlace en una nueva ventana para enviar el mensaje
   window.open(urlWhatsApp, "_blank");
