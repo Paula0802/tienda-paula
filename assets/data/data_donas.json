@@ -68,7 +68,7 @@
   {
     "name": "Lasagna pollo y champiñones",
     "price": 25.5,
-    "image": "donas_12",
+    "image": "lasagna_02",
     "category": "Lasagna"
   },
   {
@@ -80,7 +80,7 @@
   {
     "name": "Hamburguesa con queso y tocino",
     "price": 25.9,
-    "image": "burguer_01",
+    "image": "burger_01",
     "category": "Hamburguesa"
   }
 ]
