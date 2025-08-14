@@ -24,34 +24,34 @@
     "category": "Pizza"
   },
   {
-    "name": "Dona glass con Chispas Sabor Fresa ",
+    "name": "Pizza Gourmet ",
     "price": 14.9,
-    "image": "donas_05",
-    "category": "dona"
+    "image": "pizza_05",
+    "category": "Pizza"
   },
   {
-    "name": "Dona glass con Chocolate ",
+    "name": "Pizza jamon serrno y cebolla caramelizada ",
     "price": 16.1,
-    "image": "donas_06",
-    "category": "dona"
+    "image": "pizza_06",
+    "category": "Pizza"
   },
   {
-    "name": "Dona de Chocolate con MÁS Chocolate ",
+    "name": "Pizza Burguer con carme molida",
     "price": 10.9,
-    "image": "donas_07",
-    "category": "dona"
+    "image": "pizza_07",
+    "category": "Pizza"
   },
   {
-    "name": "Paquete de 3 donas de Chocolate ",
-    "price": 39.9,
-    "image": "donas_08",
-    "category": "dona"
+    "name": "Pizza jalapeños y tocineta ",
+    "price": 19.9,
+    "image": "pizza_08",
+    "category": "Pizza"
   },
   {
-    "name": "Paquete de 3 donas con Vainilla y Chocolate ",
-    "price": 40.9,
-    "image": "donas_09",
-    "category": "dona"
+    "name": "Pizza vegetales ",
+    "price": 15.9,
+    "image": "pizza_09",
+    "category": "Pizza"
   },
   {
     "name": "Paquete de 6 Donas",
