@@ -14,7 +14,7 @@ En este proyecto podrás encontrar pizzas, hamburguesas, perros calientes y lasa
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Paula0802/tienda-paula.git
    ```
 2. Abre la carpeta del proyecto en tu editor.
 3. Abre `index.html` en tu navegador.
